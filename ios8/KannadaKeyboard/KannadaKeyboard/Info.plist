@@ -1,15 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.prashantvc.KannadaKeyboard.Kannada</string>
+	<string>com.xamarin.KannadaKeyboard.Kannada</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>com.your-company.KannadaKeyboard</string>
+	<string>com.xamarin.KannadaKeyboard</string>
 	<key>CFBundlePackageType</key>
 	<string>XPC!</string>
 	<key>CFBundleShortVersionString</key>
@@ -23,13 +23,13 @@
 		<key>NSExtensionAttributes</key>
 		<dict>
 			<key>IsASCIICapable</key>
-			<false/>
+			<false />
 			<key>PrefersRightToLeft</key>
-			<false/>
+			<false />
 			<key>PrimaryLanguage</key>
 			<string>en-US</string>
 			<key>RequestsOpenAccess</key>
-			<false/>
+			<false />
 		</dict>
 		<key>NSExtensionPointIdentifier</key>
 		<string>com.apple.keyboard-service</string>
@@ -37,8 +37,8 @@
 		<string>KeyboardViewController</string>
 	</dict>
 	<key>MinimumOSVersion</key>
-	<string>8.1</string>
+	<string>9.0</string>
 	<key>CFBundleDisplayName</key>
-	<string>Kannada</string>
+	<string>Kannada Keyboard</string>
 </dict>
 </plist>

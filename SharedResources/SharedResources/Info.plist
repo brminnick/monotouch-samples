@@ -20,10 +20,20 @@
 		<integer>1</integer>
 	</array>
 	<key>MinimumOSVersion</key>
-	<string>6.0</string>
+	<string>9.0</string>
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 	</array>
+	<key>CFBundleName</key>
+	<string>Shared Res.</string>
+	<key>NSContactsUsageDescription</key>
+	<string>SharedResources App needs Contacts Access</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>SharedResources App needs Photo Library Access</string>
+	<key>NSCameraUsageDescription</key>
+	<string>SharedResources App needs Camera Access</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.xamarin.sharedresources</string>
 </dict>
 </plist>
